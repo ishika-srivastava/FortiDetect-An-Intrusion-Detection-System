@@ -1,6 +1,6 @@
 def helpMenu():
     return """
-FortiDetect - An Intrusion Detection System
+
 Usage: 
 
 Arguments:
